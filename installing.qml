@@ -131,7 +131,7 @@ ApplicationWindow {
         width: 120
         height: 120
         asynchronous: true
-        source: "http://trio-app.de/app/kim/mask.ico"
+        source: "mask.ico"
 
         fillMode: Image.PreserveAspectFit
     }
@@ -191,7 +191,7 @@ ApplicationWindow {
             anchors.horizontalCenterOffset: -5
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.verticalCenter: parent.verticalCenter
-            source: "http://trio-app.de/app/new/loading.png"
+            source: "loading.png"
             fillMode: Image.PreserveAspectFit
         }
 
