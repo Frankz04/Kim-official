@@ -64,7 +64,7 @@ ApplicationWindow {
     SystemTrayIcon {
         id: trayicon
         visible: true
-        icon.source: "http://trio-app.de/app/kim/mask.ico"
+        icon.source: "mask.ico"
         onActivated: {
             applicationWindow.show()
             applicationWindow.raise()
