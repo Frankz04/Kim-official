@@ -1,7 +1,9 @@
 # Kim-official
 
 Frontend: QML(/PySide2)
+
 Backend: Python
+
 
 App.py & main.qml sind die Dateien für die Anwendung
 
