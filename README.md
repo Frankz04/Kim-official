@@ -7,3 +7,5 @@ Backend: Python
 App.py & main.qml sind die Dateien für die Anwendung
 
 InstallerForKim.py & Installing.qml sind für den Installer der Anwendung
+
+openCV benötigt die haarcascade_frontalface_default.xml, um Gesichter zu erkennen
